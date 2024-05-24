@@ -27,9 +27,3 @@ notes: pushing was difficult, but most helpful instructions on github
 $ git init
 $ git remote add origin https://github.com/khalanle/galaxylab.git
 $ git push origin master
-
-
-
-
-
-
